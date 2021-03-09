@@ -1,0 +1,6 @@
+*.iml
+.idea/
+
+# Project exclude paths
+/employeeservApi/target/
+/employeeservImplementation/target/
